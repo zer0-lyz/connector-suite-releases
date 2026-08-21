@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "dev",
+  "productVersion": "0.2.1",
+  "build": "2026.08.21-product-repo.1",
+  "publishedAt": "2026-08-21T14:35:00.000Z",
+  "releaseUrl": "https://github.com/zer0-lyz/connector-suite-releases/releases/tag/v0.2.1-dev",
+  "notesUrl": "https://github.com/zer0-lyz/connector-suite-releases/releases/tag/v0.2.1-dev",
+  "platforms": {
+    "darwin": {
+      "filename": "Connector-Suite-Installer-0.2.1-dev.dmg",
+      "url": "https://github.com/zer0-lyz/connector-suite-releases/releases/download/v0.2.1-dev/Connector-Suite-Installer-0.2.1-dev.dmg",
+      "sha256": "99f518728794a9a91d02f06a61f859258d11f8a535037ca8cafd7d85018ac6f5",
+      "size": 8200938
+    },
+    "windows": {
+      "filename": "Connector-Suite-Installer-0.2.1-windows-dev.zip",
+      "url": "https://github.com/zer0-lyz/connector-suite-releases/releases/download/v0.2.1-dev/Connector-Suite-Installer-0.2.1-windows-dev.zip",
+      "sha256": "e45e1b9aa4a64586757eb3418fe18cb9c01559fb12252032d9503b62b3d8cbc3",
+      "size": 633700
+    }
+  }
+}
