@@ -10,14 +10,14 @@
     "darwin": {
       "filename": "Connector-Suite-Installer-0.2.2-dev.dmg",
       "url": "https://github.com/zer0-lyz/connector-suite-releases/releases/download/v0.2.2-dev/Connector-Suite-Installer-0.2.2-dev.dmg",
-      "sha256": "a10ccf9ec9828ef893b8ce024f08b1518e91455676567e537344faabed80fd2e",
-      "size": 1941637
+      "sha256": "baa437f9ae709eb403b6fae9c902267b0d86a91270466f9672b36b6ff3ee5352",
+      "size": 1960124
     },
     "windows": {
       "filename": "Connector-Suite-Installer-0.2.2-windows-dev.zip",
       "url": "https://github.com/zer0-lyz/connector-suite-releases/releases/download/v0.2.2-dev/Connector-Suite-Installer-0.2.2-windows-dev.zip",
-      "sha256": "31c5219de55871cc983baeb61305c6755334f15501b2451b18a5adf508a1bb60",
-      "size": 940419
+      "sha256": "da2c7a3636378937fcc252b89df6438f8426bdbb2038f9f46492a8da3481bc18",
+      "size": 943358
     }
   }
 }
