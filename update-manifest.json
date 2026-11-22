@@ -16,8 +16,8 @@
     "windows": {
       "filename": "Connector-Suite-Installer-0.2.2-windows-dev.zip",
       "url": "https://github.com/zer0-lyz/connector-suite-releases/releases/download/v0.2.2-dev/Connector-Suite-Installer-0.2.2-windows-dev.zip",
-      "sha256": "f667b26909e920f4c67ff65c0a932b57c8d6332fb0caf5c0e0648d47793b9197",
-      "size": 943396
+      "sha256": "89d446110a470a9add12592ffde0782ebadb64fede35350c60368fd164ecefd6",
+      "size": 944060
     }
   }
 }
